@@ -1,7 +1,7 @@
 # Project Name
 
 This project was made on week 4 for Technigo bootcamp as pair programming project. 
-It was made by me and Mamite Andersson. 
+It was made by me Mamite Andersson and Julia Nikitina github: JuliaNiki. 
 The project's aim was to practice some parts of JavaScript we've learnt so far by creating a chat bot! We got more familiar with variables, conditionals statements, event listeners and understanding the flow.
 
 ## The problem
